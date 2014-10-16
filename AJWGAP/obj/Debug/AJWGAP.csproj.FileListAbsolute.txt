@@ -1,0 +1,10 @@
+G:\backup\Pract\AJWGAP\AJWGAP\obj\Debug\AJWGAP.csprojResolveAssemblyReference.cache
+G:\backup\Pract\AJWGAP\AJWGAP\bin\AJWGAP.dll
+G:\backup\Pract\AJWGAP\AJWGAP\bin\AJWGAP.pdb
+G:\backup\Pract\AJWGAP\AJWGAP\obj\Debug\AJWGAP.dll
+G:\backup\Pract\AJWGAP\AJWGAP\obj\Debug\AJWGAP.pdb
+C:\Users\User6\Desktop\AJWGAP\AJWGAP\bin\AJWGAP.dll
+C:\Users\User6\Desktop\AJWGAP\AJWGAP\bin\AJWGAP.pdb
+C:\Users\User6\Desktop\AJWGAP\AJWGAP\obj\Debug\AJWGAP.csprojResolveAssemblyReference.cache
+C:\Users\User6\Desktop\AJWGAP\AJWGAP\obj\Debug\AJWGAP.dll
+C:\Users\User6\Desktop\AJWGAP\AJWGAP\obj\Debug\AJWGAP.pdb
